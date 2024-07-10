@@ -426,6 +426,9 @@ img {
 .page-footer {
   padding: 100px 0;
   background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
+  margin: 0 auto;
 }
 
 .container-footer {
@@ -436,9 +439,9 @@ img {
 .container-li {
   margin-right: 120px;
 }
+
 .footer-logo {
   color: #4d5ae5;
-  margin-right: 16px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -447,6 +450,7 @@ img {
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 16px;
 }
 
 .socialmedia {

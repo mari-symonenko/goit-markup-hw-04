@@ -205,6 +205,10 @@ img {
   margin-bottom: 8px;
 }
 
+.preference-list {
+  width: calc((100% - 48px) / 4);
+}
+
 .strategy {
   padding-top: 120px;
   padding-bottom: 120px;

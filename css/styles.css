@@ -295,6 +295,11 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.container-team-icon:hover,
+.container-team-icon:focus {
+  background-color: #404bbf;
+}
+
 .team-icon {
   fill: #f4f4fd;
 }
@@ -432,7 +437,7 @@ img {
   align-items: baseline;
 }
 
-.container {
+.container-li {
   margin-right: 120px;
 }
 .footer-logo {
@@ -492,4 +497,9 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+
+.socialmedia-link:hover,
+.socialmedia-link:focus {
+  background-color: #31d0aa;
 }
